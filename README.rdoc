@@ -1,4 +1,8 @@
-== README
+Backend app for Notes app
+
+Locally run:
+Run server locally with note app for backend note storage/deletion support.
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
